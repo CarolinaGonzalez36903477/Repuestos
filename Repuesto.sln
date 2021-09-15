@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repuesto.Interfaz", "Repuesto.Interfaz\Repuesto.Interfaz.csproj", "{5332C1E4-C51C-47B9-9B7D-7500007460F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibreriaDeClases", "LibreriaDeClases\LibreriaDeClases.csproj", "{87F6FD86-C1F9-400E-8E6A-7A379EDBE79C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5332C1E4-C51C-47B9-9B7D-7500007460F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5332C1E4-C51C-47B9-9B7D-7500007460F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5332C1E4-C51C-47B9-9B7D-7500007460F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5332C1E4-C51C-47B9-9B7D-7500007460F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87F6FD86-C1F9-400E-8E6A-7A379EDBE79C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87F6FD86-C1F9-400E-8E6A-7A379EDBE79C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87F6FD86-C1F9-400E-8E6A-7A379EDBE79C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87F6FD86-C1F9-400E-8E6A-7A379EDBE79C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D60030CE-FDAB-4C7A-8787-E7D30C0A5AE5}
+	EndGlobalSection
+EndGlobal
